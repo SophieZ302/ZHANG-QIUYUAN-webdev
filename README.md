@@ -5,7 +5,7 @@ My name is Qiuyuan (Sophie) Zhang, graduate cs student at NorthEastern Universit
 
 The purpos of this repository is for keeping a footprint while adventuring through webdev.
 
-Root to host(Heroku):
+Root to host(Heroku): https://devcenter.heroku.com/
 
 Link to project: xxx.com
 
